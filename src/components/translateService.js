@@ -2,7 +2,7 @@ import axios from 'axios';
 const { v4: uuidv4 } = require('uuid');
 
   const azureTranslateEndpoint = process.env.REACT_APP_AZURE_TRANSLATE_ENDPOINT || "https://api.cognitive.microsofttranslator.com";
-  const azureTranslateSubscriptionKey = process.env.REACT_APP_AZURE_TRANSLATE_SUBSCRIPTION_KEY || "a419c35f1c984ad4b6aea3ae644dba5d";
+  const azureTranslateSubscriptionKey = process.env.REACT_APP_AZURE_TRANSLATE_SUBSCRIPTION_KEY || "b9e8aab8c5f9473f90f6ab356a6d0e08";
   const azureTranlateSubscriptionlocation = process.env.REACT_APP_AZURE_TRANSLATE_SUBSCRIPTION_LOCATION || "eastus";
   // console.log(azureTranslateEndpoint,azureTranslateSubscriptionKey);
 
