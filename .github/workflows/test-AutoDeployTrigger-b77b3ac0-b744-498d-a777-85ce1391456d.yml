@@ -1,0 +1,43 @@
+name: Trigger auto deployment for test
+
+# When this action will be executed
+on:
+  # Automatically trigger it when detected changes in repo
+  push:
+    branches: 
+      [ master ]
+    paths:
+    - '**'
+    - '.github/workflows/test-AutoDeployTrigger-b77b3ac0-b744-498d-a777-85ce1391456d.yml'
+
+  # Allow manual trigger 
+  workflow_dispatch:
+      
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout to the branch
+        uses: actions/checkout@v2
+
+      - name: Azure Login
+        uses: azure/login@v1
+        with:
+          creds: ${{ secrets.TEST_AZURE_CREDENTIALS }}
+
+      - name: Build and push container image to registry
+        uses: azure/container-apps-deploy-action@v2
+        with:
+          appSourcePath: ${{ github.workspace }} 
+          registryUrl: conop.azurecr.io
+          registryUsername: ${{ secrets.TEST_REGISTRY_USERNAME }}
+          registryPassword: ${{ secrets.TEST_REGISTRY_PASSWORD }}
+          containerAppName: test
+          resourceGroup: testcontainer
+          imageToBuild: conop.azurecr.io/app:${{ github.sha }}
+          
+            
+
+     
+
