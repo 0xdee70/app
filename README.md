@@ -38,8 +38,11 @@ Lifestyle
 
 # Web Technologies Used :
 HTML
+
 CSS
+
 JavaScript
+
 React
 
 # IDE Used :
