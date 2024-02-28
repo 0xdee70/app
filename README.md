@@ -27,6 +27,7 @@ Video:
 
 # Core Azure Servies:
 Azure App Service (For hosting the website)
+
 Monitoring Alert (Tracking of problems to report)
 
 # Azure AI Servies:
