@@ -98,7 +98,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 # Working Links of Project :
-Web Application hosted on Azure : 
+Web Application hosted on Azure : ![app service](https://github.com/d9870/app/assets/86678608/cfe2348d-8f63-45b1-be97-a7c63fc6c54f)
+
 Github Repository : 
 Code : 
 Documentation : 
@@ -106,10 +107,11 @@ Video:
 
 # ScreenShots of Some Azure Resources :
 App Service :
-
+![app service](https://github.com/d9870/app/assets/86678608/f993e131-09cd-4b91-9dfc-8e5f83ea4c65)
 Monitoring :
 
 Azure AI Translator :
+
 
 ScreenShots of the website after deploying (Default Page) :
 
