@@ -1,6 +1,34 @@
-# Getting Started with Create React App
+# Project Title:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Advanced To Do Web App Using React and Azure
+
+# Industry Type :
+Project Description:
+
+Our innovative To-Do list application sets out to redefine task organization and management by leveraging modern technologies and intuitive design principles. Built upon the versatile React framework, the application boasts a sleek and user-friendly interface that ensures a seamless user experience. One of the standout features of our application is the integration of a real-time clock, which provides users with accurate time information directly within the application interface. This real-time clock enhances the utility of the application, allowing users to stay informed about the current time while managing their tasks efficiently.
+
+In addition to the real-time clock, our To-Do list application incorporates a range of intuitive controls to streamline task management. Users have access to a variety of buttons, including clear, complete, and search functionalities, which are seamlessly integrated into the application interface. The clear button enables users to remove all completed tasks or reset the task list, providing a convenient way to declutter and start afresh. The complete button allows users to mark tasks as completed with a single click, streamlining the process of tracking task progress. Meanwhile, the search button empowers users to quickly find specific tasks within their list, enhancing efficiency and productivity.
+
+Furthermore, our application prioritizes user convenience and accessibility by ensuring that these buttons are easily accessible and prominently displayed within the application interface. Whether on desktop or mobile devices, users can effortlessly interact with these controls to manage their tasks effectively. By combining the functionality of a real-time clock with intuitive buttons for task management, our To-Do list application offers a comprehensive solution for users seeking to organize their tasks efficiently and stay productive in their daily lives.
+
+# Core Azure Servies:
+Azure App Service (For hosting the website)
+Monitoring Alert (Tracking of problems to report)
+
+# Azure AI Servies:
+Azure AI Translator
+
+# Web Technologies Used :
+HTML
+CSS
+JavaScript
+React
+
+# IDE Used :
+Visual Studio Code
+
+# Steps Followed While Deploying :
+Deepak tu lekh de
 
 ## Available Scripts
 
@@ -68,3 +96,23 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Working Links of Project :
+Web Application hosted on Azure : 
+Github Repository : 
+Code : 
+Documentation : 
+Video: 
+
+# ScreenShots of Some Azure Resources :
+App Service :
+
+Monitoring :
+
+Azure AI Translator :
+
+ScreenShots of the website after deploying (Default Page) :
+
+After Completelty:
+
+
