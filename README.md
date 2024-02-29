@@ -15,7 +15,7 @@ An Azure account with an active subscription. Create an account for free.
 Or simply login to your Student Account 
 
 # Working Links of Project :
-Web Application hosted on Azure :
+Web Application hosted on Azure : https://red-sky-0ff674610.4.azurestaticapps.net
 
 Github Repository : https://github.com/d9870/app
 
