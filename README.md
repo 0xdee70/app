@@ -23,7 +23,7 @@ Code : https://github.com/d9870/app/tree/master
 
 Documentation : https://drive.google.com/file/d/1pRDFjka3qBgAdK9d-e0GkASwEYM-nkky/view
 
-Video: 
+Video: https://youtu.be/PouVdTsgNog
 
 # Core Azure Servies:
 Azure App Service (For hosting the website)
