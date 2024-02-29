@@ -17,11 +17,11 @@ Or simply login to your Student Account
 # Working Links of Project :
 Web Application hosted on Azure :
 
-Github Repository : 
+Github Repository : https://github.com/d9870/app
 
-Code : 
+Code : https://github.com/d9870/app/tree/master
 
-Documentation : 
+Documentation : https://drive.google.com/file/d/1pRDFjka3qBgAdK9d-e0GkASwEYM-nkky/view
 
 Video: 
 
@@ -109,10 +109,12 @@ Visual Studio Code
 # ScreenShots of Some Azure Resources :
 App Service :
 ![app service](https://github.com/d9870/app/assets/86678608/f993e131-09cd-4b91-9dfc-8e5f83ea4c65)
+
 Monitoring :
 ![monitoring](https://github.com/d9870/app/assets/86678608/fdbcac95-895f-4671-acdc-7410270d4071)
 
 Azure AI Translator :
+![image](https://github.com/d9870/app/assets/86678608/075ff3de-5e9c-42c7-9f04-6097bc1d4c58)
 
 
 ScreenShots of the website after deploying (Default Page) :
