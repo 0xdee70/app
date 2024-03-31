@@ -86,25 +86,28 @@ Visual Studio Code
 13. Click on "Create".
 ![13](https://github.com/d9870/app/assets/86678608/737ee611-0b5b-43c0-a496-aa01f296fef0)
 
-14. Now are adding a Azure AI Translator. Search Azure AI Services and in it Translator.
+14. We had created an NSG.
+![image](https://github.com/0xdee70/app/assets/86678608/0aa85965-234e-44cc-a435-7b67377586f2)
+
+15. Now are adding a Azure AI Translator. Search Azure AI Services and in it Translator.
 ![14](https://github.com/d9870/app/assets/86678608/660a1fca-22f0-4b03-9d40-7a7536ff2911)
 
-15. Create Translator. Fill the details like Subscription, Resource group, Region, Name, Pricing tier. Click on "Review + create".
+16. Create Translator. Fill the details like Subscription, Resource group, Region, Name, Pricing tier. Click on "Review + create".
 ![15](https://github.com/d9870/app/assets/86678608/774736f8-4f31-4e86-9e4f-5ed34f462c08)
 
-16. Click on "Create".
+17 Click on "Create".
 ![16](https://github.com/d9870/app/assets/86678608/112ab8ff-6826-4e87-b8c0-b9610bfcb60d)
 
-17. Translator is created and click on "Go to resource".
+18. Translator is created and click on "Go to resource".
 ![17](https://github.com/d9870/app/assets/86678608/520b0787-d856-4bdb-b67b-ae66bfcc5246)
 
-18. In Resource Management go to Keys and Endpoint. We get 2 keys generated.
+19. In Resource Management go to Keys and Endpoint. We get 2 keys generated.
 ![18](https://github.com/d9870/app/assets/86678608/cde7aafc-95ff-4823-985b-adbaa80e0a55)
 
-19. In settings, go to Environment variables.
+20. In settings, go to Environment variables.
 ![19](https://github.com/d9870/app/assets/86678608/9652e6ca-ec80-4b39-951a-2c7071e79c37)
 
-20. Now our full project is ready for use.
+21. Now our full project is ready for use.
 ![20](https://github.com/d9870/app/assets/86678608/8546d85a-a26c-4a3d-970a-b54e40b114d7)
 
 
