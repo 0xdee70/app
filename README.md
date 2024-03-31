@@ -30,6 +30,8 @@ Azure App Service (For hosting the website)
 
 Monitoring Alert (Tracking of problems to report)
 
+Azure NSG (for network security)
+
 # Azure AI Servies:
 Azure AI Translator
 
